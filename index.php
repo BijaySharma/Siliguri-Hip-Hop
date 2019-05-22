@@ -12,7 +12,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="img/one.jpg" alt="New York" width="1200" height="700">
+        <img src="img/one.jpg" width="1200" height="700">
         <div class="carousel-caption">
           <h3>SILIGURI</h3>
           <p>The atmosphere in Siliguri is Great.</p>
@@ -20,7 +20,7 @@
       </div>
 
       <div class="item">
-        <img src="img/two.jpg" alt="Chicago" width="1200" height="700">
+        <img src="img/two.jpg" width="1200" height="700">
         <div class="carousel-caption">
           <h3>SILIGURI</h3>
           <p>Thank you, Anwar's - A night we won't forget.</p>
@@ -28,7 +28,7 @@
       </div>
 
       <div class="item">
-        <img src="img/three.jpg" alt="Los Angeles" width="1200" height="700">
+        <img src="img/three.jpg" width="1200" height="700">
         <div class="carousel-caption">
           <h3>SILIGURI</h3>
           <p>Even though the traffic was a mess, we had the best time playing at Anwar's</p>
@@ -60,40 +60,9 @@
 Intrested artists can sign up there name bellow in the following categories.
 <br><strong>An artist can take part in any of these three things, there's No Age Limit, No Entry Fees. So get your ass up to this Hiphop event if you think you are really a hiphop head.</strong></p>
   <br>
-  <!-- <div class="row">
-    <div class="col-sm-4">
-      <p class="text-center"><strong>Subham Verma</strong></p><br>
-      <a href="#demo" data-toggle="collapse">
-        <img src="img/sbm.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo" class="collapse">
-        <p>Guitarist and Lead Vocalist</p>
-        <p>Loves long walks on the beach</p>
-        <p>Member since 1988</p>
-      </div>
+ 
     </div>
-    <div class="col-sm-4">
-      <p class="text-center"><strong>Bijay Sharma</strong></p><br>
-      <a href="#demo2" data-toggle="collapse">
-        <img src="img/bij.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo2" class="collapse">
-        <p>Founder & CEO - PowerBlocls</p>
-        <p>Passionate Developer</p>
-        <p>Loves Developing Android and Web Apps</p>
-      </div> -->
-    </div>
-    <!-- <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
-      <a href="#demo3" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo3" class="collapse">
-        <p>Bass player</p>
-        <p>Loves math</p>
-        <p>Member since 2005</p>
-      </div>
-    </div> -->
+ 
   </div>
 </div>
 
@@ -217,27 +186,7 @@ Intrested artists can sign up there name bellow in the following categories.
     </div>
   </div>
   <br>
-  <!-- <h3 class="text-center">The Team</h3>
-  <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" href="#home">Subham Verma</a></li>
-    <li><a data-toggle="tab" href="#menu1">Bijay Sharma</a></li>
-    <li><a data-toggle="tab" href="#menu2">Peter</a></li>
-  </ul>
 
-  <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-      <h2>Mike Ross, Manager</h2>
-      <p>Man, we've been on the road for some time now. Looking forward to lorem ipsum.</p>
-    </div>
-    <div id="menu1" class="tab-pane fade">
-      <h2>Chandler Bing, Guitarist</h2>
-      <p>Always a pleasure people! Hope you enjoyed it as much as I did. Could I BE.. any more pleased?</p>
-    </div>
-    <div id="menu2" class="tab-pane fade">
-      <h2>Peter Griffin, Bass player</h2>
-      <p>I mean, sometimes I enjoy the show, but other times I enjoy other things.</p>
-    </div>
-  </div> -->
 </div>
 
 <!-- Image of location/map -->
