@@ -1,0 +1,29 @@
+h1, h2, h3{
+    margin:0;
+    padding: 0;
+}
+
+#body{
+    background: darkslategray;
+    width: 100%;
+    height: 980px;
+    padding-top: 4.2em;
+    color: #fff;
+}
+
+#sucess{
+    margin: 10% auto;
+}
+
+.sbt{
+    background: rgba(0,0,0,.2);
+    padding: 1em 1.5em;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: #fff;
+}
+.sbt:hover{
+    background: rgba(0,0,0,.6);
+    transition-duration: .3s;
+    color: #fff;
+}
