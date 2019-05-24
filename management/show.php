@@ -25,6 +25,7 @@ $record = find_record_by_id($id);
     <hr>
     <p>Stage Name : <?php echo $record['stage_name'];?></p>
     <p>Gender : <?php echo $record['gender'];?></p>
+    <p>Category : <?php echo $record['category'];?></p>
     <p>Phone : <?php echo $record['phone'];?></p>
     <p>Email : <?php echo $record['email'];?></p><br>
     <a href="edit.php?id=<?php echo $record['id'];?>" class="btn">Edit</a>

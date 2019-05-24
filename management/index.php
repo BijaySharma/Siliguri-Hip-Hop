@@ -45,6 +45,7 @@
             <th>Name</th>
             <th>Stage Name</th>
             <th>Gender</th>
+            <th>Category</th>
             <th>Phone</th>
             <th>Email</th>
             <th colspan="3" align="center">Actions</th>
@@ -56,6 +57,7 @@
                 <td><?php echo $reg['name'];?></td>
                 <td><?php echo $reg['stage_name'];?></td>
                 <td> <?php echo$reg['gender'];?></td>
+                <td> <?php echo$reg['category'];?></td>
                 <td><?php echo $reg['phone'];?></td>
                 <td><?php echo $reg['email'];?></td>
                 <td><a href="show.php?id=<?php echo u($reg['id']); ?>">View</a></td>
